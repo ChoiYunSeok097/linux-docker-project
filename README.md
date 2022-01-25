@@ -9,7 +9,7 @@
 
 # 구현 목록
 - 로그인 화면
-<img width="80%" src="https://user-images.githubusercontent.com/59460871/150888941-210f4e24-f488-4352-b84c-7658674eebe2.PNG"/>
+<img width="100%" src="https://user-images.githubusercontent.com/59460871/150888941-210f4e24-f488-4352-b84c-7658674eebe2.PNG"/>
 
 ```
 -회원 정보를 입력
@@ -24,5 +24,6 @@
 ```
 -처음에는 간단한 정보를 출력
 -더 자세히 볼건지 물어봄
+<img width="100%" src="https://user-images.githubusercontent.com/59460871/150889254-fa631d3a-e45b-4db3-8c6d-43b3c5d90c80.PNG"/>
+
 ```
-- 계산기
